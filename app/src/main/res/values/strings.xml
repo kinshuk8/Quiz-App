@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="tv_card">Welcome</string>
+    <string name="intro">Quiz App!</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="hint">e.g. John Doe</string>
+</resources>
